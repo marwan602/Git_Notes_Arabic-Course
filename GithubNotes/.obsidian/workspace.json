@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84549ec887f060ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git_1.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git_1.4.md",
+                "file": "Git_1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git_1.4.md",
+                "file": "Git_1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git_1.4.md"
+                "file": "Git_1.5.md"
               }
             }
           }
@@ -160,15 +172,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7580a6239a3f5ba6",
+  "active": "84549ec887f060ab",
   "lastOpenFiles": [
+    "Git_1.4.md",
+    "Git_1.5.md",
+    "Git_1.2.md",
+    "ReadMe.md",
     "Git_1.3.md",
     "Screenshot 2024-04-26 at 6.51.33 PM.png",
-    "Git_1.4.md",
     "Pasted image 20240426185141.png",
     "Pasted image 20240426185031.png",
     "Screenshot 2024-04-26 at 6.48.53 PM.png",
-    "Git_1.2.md",
     "Git_1.1.md",
     "www.google.com.md"
   ]

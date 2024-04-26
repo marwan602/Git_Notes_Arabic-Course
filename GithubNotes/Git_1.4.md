@@ -4,4 +4,4 @@
 * git push: Pushes from local repo to remote repo
 ![[Screenshot 2024-04-26 at 6.51.33 PM.png]]
 Practice:
-Pushed all git notes so far onto github
+Pushed all git notes so far onto local repo
