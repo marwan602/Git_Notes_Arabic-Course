@@ -1,2 +1,0 @@
--  You can add collaborators to an existing repo instead of forking
-- Git pull -> It is a combination of git fetch and git merge, git fetch gets the new changes from the remote repo, and merge merges it into the local repo.
