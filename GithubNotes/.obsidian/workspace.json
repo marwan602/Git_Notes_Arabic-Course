@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is git?.md",
+                "file": "1) What is git?.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository commands.md",
+                "file": "4) Repository commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "More key repo commands.md",
+                "file": "5) More key repo commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collaboration & Pull.md",
+                "file": "6) Collaboration & Pull.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configurations for github.md",
+                "file": "7) Configurations for github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1544f9036a5f89f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8) Github SSH Key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7fcfe31f7e7d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9) Repo from Existing Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configurations for github.md",
+                "file": "9) Repo from Existing Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configurations for github.md",
+                "file": "9) Repo from Existing Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configurations for github.md"
+                "file": "9) Repo from Existing Project.md"
               }
             }
           }
@@ -208,16 +232,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f54b205dfe574d0b",
+  "active": "c7fcfe31f7e7d6c6",
   "lastOpenFiles": [
-    "Collaboration & Pull.md",
-    "Configurations for github.md",
-    "What is git?.md",
-    "Git Clone.md",
-    "More key repo commands.md",
-    "Repository commands.md",
-    "Key git commands and definitions.md",
+    "8) Github SSH Key.md",
+    "7) Configurations for github.md",
+    "6) Collaboration & Pull.md",
     "README.md",
+    "5) More key repo commands.md",
+    "4) Repository commands.md",
+    "3) Git Clone.md",
+    "1) What is git?.md",
+    "2) Key git commands and definitions.md",
+    "9) Repo from Existing Project.md",
+    "Untitled 1.md",
     "ReadMe.md",
     "Screenshot 2024-04-26 at 6.51.33 PM.png",
     "Pasted image 20240426185141.png",

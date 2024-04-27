@@ -1,0 +1,2 @@
+- [Original Video](https://www.youtube.com/watch?v=KhYK0cczeSY&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=8)
+- ssh-keygen -t (algorithm) -b (Number of bits) -C (mail): creates a secure key to hash your git authentication

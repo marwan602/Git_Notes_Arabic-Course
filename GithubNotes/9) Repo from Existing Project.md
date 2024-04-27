@@ -1,0 +1,6 @@
+- [Original Video](https://www.youtube.com/watch?v=usjh4jj7_nQ&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=9)
+- mkdir (repo name) -> Creates a directory in the current path location
+- git init -> initializes an empty repo 
+- touch (filename) -> creates a file with said name and file type
+- git remote add origin (repo html link or SSH mail)
+- Practice: Created and pushed a repo from our local to the remote.
