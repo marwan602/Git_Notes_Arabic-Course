@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collaboration & Pull.md",
+                "file": "Configurations for github.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collaboration & Pull.md",
+                "file": "Configurations for github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collaboration & Pull.md",
+                "file": "Configurations for github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collaboration & Pull.md"
+                "file": "Configurations for github.md"
               }
             }
           }
@@ -210,10 +210,10 @@
   },
   "active": "f54b205dfe574d0b",
   "lastOpenFiles": [
-    "git_1.7.md",
+    "Collaboration & Pull.md",
+    "Configurations for github.md",
     "What is git?.md",
     "Git Clone.md",
-    "Collaboration & Pull.md",
     "More key repo commands.md",
     "Repository commands.md",
     "Key git commands and definitions.md",
